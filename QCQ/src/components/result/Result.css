@@ -1,0 +1,31 @@
+.final-results {
+    margin: 0 auto;
+    width: 50%; 
+    margin-top: 64px;
+    background-color: rgb(164, 157, 157);
+    padding: 16px;
+    border-radius: 16px;
+    color: white;
+    align-items: center;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px,
+      rgba(0, 0, 0, 0.3) 0px 18px 36px -18px;
+  }
+
+  .final-results h1{text-align: center;}
+  .final-results h2{text-align: center;
+    margin-top: 30px;}
+  .final-results button{
+    margin: auto;
+    width: 250px;
+    height: 60px;
+    margin-top: 100px;
+    margin-bottom: 25px;
+    margin-left: 260px;
+    background: #553f9a;
+    color: #fff;
+    text-align: center;
+    font-size: 25px;
+    font-weight: 500;
+    border-radius: 25px;
+    cursor: pointer;
+}

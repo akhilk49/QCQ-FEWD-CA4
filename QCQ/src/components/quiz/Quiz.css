@@ -1,0 +1,57 @@
+.container{
+    width: 1110px;
+    height: 570px;
+    margin: auto;
+    margin-top: 50px;
+    background: #c0c0c0;
+    color: #262626;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    border-radius: 10px;
+    padding: 40px 50px; 
+}
+.container hr{
+    height: 2px;
+    border: none;
+    background: black;
+}
+.container h2{
+    font-size: 27px;
+    font-weight: 500;
+}
+.container ul li{
+    display: flex;
+    align-items: center;
+    text-align: center;
+    height: 70px;
+    background: #fff;
+    padding-left: 25px;
+    border: none;
+    border-radius: 25px;
+    margin-bottom: 20px;
+    font-size: 20px;
+    cursor: pointer;
+}
+.container button{
+    margin: auto;
+    width: 250px;
+    height: 60px;
+    background: #553f9a;
+    color: #fff;
+    font-size: 25px;
+    font-weight: 500;
+    border-radius: 8px;
+    cursor: pointer;
+}
+.container .index{
+    margin: auto;
+    font-size: 18px;
+}
+.highlightbuttons{
+    display: flex;
+
+}
+.highlightbuttons button{
+    border-radius: 25px;
+}
